@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.figure_factory as ff
 
 text("# Welcome to Preswald!")
-text("This is your first app. 🎉")
+text("Global Sale Numbers, EDA")
 
 connect()  
 df = get_df('sample_csv')
